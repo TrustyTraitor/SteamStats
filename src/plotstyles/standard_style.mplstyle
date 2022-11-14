@@ -1,0 +1,3 @@
+pyplot.title : "Hours spent in games owned on Steam"
+ylabel : "Hours Played"
+xlabel : "Games"
